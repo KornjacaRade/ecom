@@ -1,6 +1,0 @@
-http://localhost/Udm/php/ecom/public/thank_you.php?tx=34535434&amt=345&cc=USA&st=Completed
-
-cpanel db
-id13334416_ecom_db
-id13334416_acotrm
-%QbyNGh1chmgQ?Mi
